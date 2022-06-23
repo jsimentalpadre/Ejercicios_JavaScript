@@ -1,2 +1,2 @@
-# Ejercicios_JavaScript
-Ocho ejercicios sencillos de JavaScript
+<h1>Ejercicios_JavaScript</h1>
+Ejercicios realizados por Salvador Perez

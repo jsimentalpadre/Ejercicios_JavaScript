@@ -1,6 +1,10 @@
 var n1 = parseInt(prompt("Write a number"));
 var n2 = parseInt(prompt("Write another number"));
 
+
+// que pasa si le teclea una Letra o un Cero en las variables, 
+
+
 suma = n1 + n2;
 resta = n1 - n2;
 division =  n1/n2;
